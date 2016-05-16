@@ -41,6 +41,8 @@ There is already a default README on their website, but I was unable to install 
 
 4. "Could not reliably determine the server's fully qualified domain name, using 127.0.1.1 for ServerName" error when restarting the apache server: <br>
         Follow instructions [here](http://askubuntu.com/questions/256013/could-not-reliably-determine-the-servers-fully-qualified-domain-name) to solve it.
+
+5. For some other Server Errors, please go to check the apache log file(/var/log/apache2/error.log) to see what is the problem and solve it with the help of Google. :smile: 
    
 #### Useful Links
 * https://github.com/johndoherty/vatic
