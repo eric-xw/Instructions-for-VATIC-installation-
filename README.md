@@ -35,9 +35,14 @@ There is already a default README on their website, but I was unable to install 
 
  * Then you can follow the original instructions to continue.
 
-2. Mysql
+2. Erase the password of the mysql user account used for VATIC. 
 
-3. vatic location
+3. DO NOT put VATIC folder somewhere under home directory(~). Put it somewhere else under the root directory(/) instead.
 
-4. sudo apache2ctl restart
+4. "Could not reliably determine the server's fully qualified domain name, using 127.0.1.1 for ServerName" error when restarting the apache server: <br>
+        Follow instructions [here](http://askubuntu.com/questions/256013/could-not-reliably-determine-the-servers-fully-qualified-domain-name) to solve it.
    
+#### Useful Links
+* https://github.com/johndoherty/vatic
+* https://www.bountysource.com/issues/11696499-server-error-when-using-links-provided-by-turkic-publish-offline
+* https://github.com/cvondrick/vatic/issues/11
