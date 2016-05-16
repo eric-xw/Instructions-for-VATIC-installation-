@@ -30,9 +30,6 @@ There is already a default README on their website, but I was unable to install 
         _sudo apt-get install libjpeg-dev<br>
         pip install -I pillow<br>_
 
- * Then reinstall pillow:<br>
-        _pip install -I pillow_
-
  * Then you can follow the original instructions to continue.
 
 2. Erase the password of the mysql user account used for VATIC. 
