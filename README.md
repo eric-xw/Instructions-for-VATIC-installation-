@@ -18,7 +18,7 @@ There is already a default README on their website, but I was unable to install 
         sudo apt-get install autoconf libtool pkg-config python-opengl python-imaging pythonpyrex
         python-pyside.qtopengl idle-python2.7 qt4-dev-tools qt4-designer libqtgui4
         libqtcore4 libqt4-xml libqt4-test libqt4-script libqt4-network libqt4-dbus python-qt4
-        python-qt4-gl libgle3 python-dev
+        python-qt4-gl libgle3 python-dev <br>
         sudo apt-get install libapache2-mod-wsgi<br>
         sudo a2enmod mod-wsgi<br>
         sudo apt-get install python-mysqldb<br>
