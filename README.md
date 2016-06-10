@@ -40,7 +40,7 @@ There is already a default README on their website, but I was unable to install 
         Follow instructions [here](http://askubuntu.com/questions/256013/could-not-reliably-determine-the-servers-fully-qualified-domain-name) to solve it.
 
 5. Target WSGI script '/var/www/html/VATIC/vatic/server.py' cannot be loaded as Python module: <br>
-        Create a void __init__.py file if there is no one. Sometimes WSGI cannot work without a __init__.py file.
+        Create a void \_\_init\_\_.py file if there is no one. Sometimes WSGI cannot work without a \_\_init\_\_.py file.
 
 6. For some other Server Errors, please go to check the apache log file(/var/log/apache2/error.log) to see what is the problem and solve it with the help of Google. :smile: 
    
